@@ -1,2 +1,2 @@
-# first_repo
+# test-repo
 Test Repo
